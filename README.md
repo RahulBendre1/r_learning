@@ -11,3 +11,9 @@ Learning R programming lang
 6. Strings
 7. List
 8. Vector
+9. Array
+10. factors
+11. matrices
+12. data frames
+13. data reshaping
+14. packages
