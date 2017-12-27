@@ -25,4 +25,6 @@ Learning R programming lang
       * JSON file
       * web data
       * Data base connections/operations
-      
+16. Charts
+      * pie chart
+      * bar chart
