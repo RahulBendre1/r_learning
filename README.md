@@ -17,3 +17,12 @@ Learning R programming lang
 12. data frames
 13. data reshaping
 14. packages
+15. data interfaces 
+      * csv 
+      * excel
+      * binary files
+      * XML file
+      * JSON file
+      * web data
+      * Data base connections/operations
+      
