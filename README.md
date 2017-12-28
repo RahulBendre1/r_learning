@@ -28,3 +28,7 @@ Learning R programming lang
 16. Charts
       * pie chart
       * bar chart
+      * bol plots
+      * histograms
+      * line graphs
+      * scatteredplots
